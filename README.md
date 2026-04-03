@@ -22,7 +22,7 @@ This project analyses employee attrition and workforce performance using the IBM
 ---
 
 ## Dataset
-- **Source:** [IBM HR Analytics Dataset — Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+- **Source:** <a href="https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset" target="_blank">IBM HR Analytics Dataset — Kaggle</a>
 - **Size:** 1,470 employees × 35 columns
 - **Type:** Fictional dataset created by IBM data scientists
 - **Key columns:** Age, Department, JobRole, MonthlyIncome, OverTime, JobSatisfaction, WorkLifeBalance, YearsAtCompany, Attrition
@@ -140,7 +140,7 @@ pip install pandas numpy matplotlib seaborn jupyter openpyxl
 ## Author
 **Sanju Thomas Sabu**
 Master of Business Analytics — University of Wollongong in Dubai
-[LinkedIn](#) | [GitHub](#)
+<a href="https://www.linkedin.com/in/sanju-thomas-sabu/" target="_blank">LinkedIn</a> | <a href="https://github.com/mrthomas02" target="_blank">GitHub</a>
 
 ---
 *Dataset: IBM HR Analytics Employee Attrition Dataset (fictional, created by IBM data scientists for educational purposes)*
